@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ShapingClientsData.exe" size="77784">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ShapingClientsData.exe" size="78296">
       <assemblyIdentity name="ShapingClientsData" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Q/5evdQxpzu12w+Z/E6cnOvqonSx0s3+JQr8sIi4tDA=</dsig:DigestValue>
+        <dsig:DigestValue>A0R+vMtqAYkD0E5T0h29I9gxKVMTVKmTZFsSTVwuqd4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -71,7 +71,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>14eeZlakQDW90kDhPzfnF+GDTp+RDKoE736ozCITH7c=</dsig:DigestValue>
+      <dsig:DigestValue>7UDF5wZv3DGrVNApGtPP2LTX/6vjqpbiI3CmKey7QC0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Clients_log.ldf" size="8388608" writeableType="applicationData">
@@ -80,7 +80,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>iG/eZlVGdXs8FoIWvRQ/Kk6LixSmTvOC6TlbpZDxK2o=</dsig:DigestValue>
+      <dsig:DigestValue>Nr+5tLMcgAcZqB7duBUE5zkjcganrUwds/+AziMMptc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="ShapingClientsData.exe.config" size="559">
