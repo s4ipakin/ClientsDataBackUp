@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ShapingClientsData.exe" size="78808">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ShapingClientsData.exe" size="77784">
       <assemblyIdentity name="ShapingClientsData" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>I3+trwj4u8ay4qqoEV+Ft/a7JGHrCwj2rukaeC4Emew=</dsig:DigestValue>
+        <dsig:DigestValue>r73miVz2VkPViJAuRVb+olA7rkXSByLF9AVaUxf147g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
